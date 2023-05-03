@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="root@hz-4.matpool.com:27032 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz-t2.matpool.com:27552 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_10" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz-t3.matpool.com:29124 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_264" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz-t3.matpool.com:29374 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/DefectDetection" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz-t3.matpool.com:29586 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/DefectDetection" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz.matpool.com:27232 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/DefectDetection" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz.matpool.com:27424 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/DefectDetection" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz.matpool.com:28480 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/DefectDetection" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
